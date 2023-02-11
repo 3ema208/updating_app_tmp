@@ -1,0 +1,5 @@
+.pyupdater
+pyu-data
+*.spec
+.idea
+__pycache__

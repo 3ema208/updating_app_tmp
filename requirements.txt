@@ -1,0 +1,3 @@
+pyqt6
+# pyupdater
+git+https://github.com/3ema208/PyUpdater.git@main
